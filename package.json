@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blendonluta/fppk/issues"
   },
-  "homepage": "https://github.com/blendonluta/fppk#readme"
+  "homepage": "https://github.com/blendonluta/fppk#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
