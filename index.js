@@ -3,7 +3,7 @@ const app = express()
 
 
 app.get('/', (req, res) => {
-    res.send('A')
+    res.sendfile(path.join(__dirname + '/index.html'))
 })
 
 
